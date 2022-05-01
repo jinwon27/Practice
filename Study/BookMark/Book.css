@@ -1,0 +1,44 @@
+* {
+    text-align: center;
+    background-color: rgba(180, 207, 233, 0.993);
+  }
+
+  h1{ 
+      font-style: italic;
+      color: white;
+  }
+
+  #http_text{
+      font-size: 40;
+      font-weight: bold;
+      color: black;
+      width: 400px;
+      border: 5px solid white;
+      border-radius: 10px;
+      margin: 0 auto;
+  }
+
+  #address{
+    margin-top: 40px;
+    color: white;
+    border-radius: 10px;
+  }
+
+  #addname{
+    margin-top: 40px;
+    color: white;
+    border-radius: 10px;
+  }
+
+  #Addadd{
+    margin-top: 40px;
+    color: white;
+    border-radius: 10px;
+  }
+
+  #aBtn{
+    margin-top: 40px;
+    color: white;
+    border-radius: 10px;
+  }
+
